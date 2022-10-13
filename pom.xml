@@ -249,10 +249,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/payment-service.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/payment-service.git</developerConnection>
+    <connection>scm:git:https://github.com/bhagath-pachimatla/payment_repository.git</connection>
+    <developerConnection>scm:git:https://github.com/bhagath-pachimatla/payment_repository.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/payment-service.git</url>
+    <url>scm:git:https://github.com/bhagath-pachimatla/payment_repository.git</url>
   </scm>
 
   <prerequisites>
